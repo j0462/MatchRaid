@@ -62,4 +62,8 @@
 
 ![Jelly 0](https://user-images.githubusercontent.com/70842040/158149777-413c3cd8-01b0-4e80-9914-fba5eeafe1f8.png)
 
+키우는 환경은 식물을 키우는 환경과 비슷하게 만들었으며
+
+젤리의 경우 도트방식을 사용해 귀여움을 
+
 
