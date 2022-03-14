@@ -53,5 +53,13 @@
 
 마지막 젤리까지 해금하는 것이 목표
 
+### 6.그래픽
+
+
+![Room](https://user-images.githubusercontent.com/70842040/158149703-de1d7d7c-aa02-4106-a2db-2ba03278d406.png)
+
+![Sky](https://user-images.githubusercontent.com/70842040/158149742-5360dfda-3690-487f-aaba-245e62e8fe8a.png)
+
+![Jelly 0](https://user-images.githubusercontent.com/70842040/158149777-413c3cd8-01b0-4e80-9914-fba5eeafe1f8.png)
 
 
