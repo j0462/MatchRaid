@@ -66,6 +66,21 @@
 
 젤리의 경우 도트방식을 사용해 귀여움을 부각시켰다
 
+#### 6-1 젤리
+![Jelly 1](https://user-images.githubusercontent.com/70842040/163918895-55b9c875-d3a6-45a2-927f-242083a27cb6.png)
+![Jelly 2](https://user-images.githubusercontent.com/70842040/163918914-b368d407-a069-485f-ae0b-61de522f5668.png)
+![Jelly 3](https://user-images.githubusercontent.com/70842040/163918923-5560bd2d-a6b0-4a56-9b26-21748a796b6f.png)
+![Jelly 4](https://user-images.githubusercontent.com/70842040/163918932-17c35cb9-75a3-4faa-8e81-1d7f7e8ee2b1.png)
+![Jelly 5](https://user-images.githubusercontent.com/70842040/163918936-8291ed20-c3f9-4eb8-9f2e-a2ef7e95047b.png)
+![Jelly 6](https://user-images.githubusercontent.com/70842040/163918953-059cc670-26cb-47a8-a6ea-0d5391ab20af.png)
+![Jelly 7](https://user-images.githubusercontent.com/70842040/163918965-51d51787-0c0a-4532-88e6-2a74b5c464e9.png)
+![Jelly 8](https://user-images.githubusercontent.com/70842040/163918980-2ef18aa9-5999-4d6b-a350-5d6fbfab01c7.png)
+![Jelly 9](https://user-images.githubusercontent.com/70842040/163918987-7d4a3975-bdc2-4236-b6d7-a435811f8ff0.png)
+![Jelly 10](https://user-images.githubusercontent.com/70842040/163918994-ca9016ef-7ea7-4c21-90e1-a218a0cba79d.png)
+![Jelly 11](https://user-images.githubusercontent.com/70842040/163918996-2d579259-4081-4acc-aafb-7c974f02b42b.png)
+
+추후 추가예정
+
 ### 7.사운드
 
 도트방식의 게임들 처럼 레트로 bgm을 사용하고
