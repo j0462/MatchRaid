@@ -59,7 +59,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/70842040/165079552-aa457ad9-a77c-46a9-b9f9-648ce0fa8aff.png)
-Jelly 0.png
+
+images/Jelly 0.png
 
 키우는 환경은 식물을 키우는 환경과 비슷하게 만들었으며
 
