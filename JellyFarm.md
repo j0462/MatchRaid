@@ -55,29 +55,31 @@
 
 ### 6.그래픽
 
+![image](https://user-images.githubusercontent.com/70842040/165079469-f01c1ddc-e130-482b-8506-a0a524a9f7aa.png)
 
-![Room](https://user-images.githubusercontent.com/70842040/158149703-de1d7d7c-aa02-4106-a2db-2ba03278d406.png)
 
-![Sky](https://user-images.githubusercontent.com/70842040/158149742-5360dfda-3690-487f-aaba-245e62e8fe8a.png)
+![image](https://user-images.githubusercontent.com/70842040/165079552-aa457ad9-a77c-46a9-b9f9-648ce0fa8aff.png)
 
-![Jelly 0](https://user-images.githubusercontent.com/70842040/158149777-413c3cd8-01b0-4e80-9914-fba5eeafe1f8.png)
+![Jelly 0](https://user-images.githubusercontent.com/70842040/165079571-b4e5098b-1afe-4f44-88dc-ab802461d5c1.png)
 
 키우는 환경은 식물을 키우는 환경과 비슷하게 만들었으며
 
 젤리의 경우 도트방식을 사용해 귀여움을 부각시켰다
 
 #### 6-1 젤리
-![Jelly 1](https://user-images.githubusercontent.com/70842040/163918895-55b9c875-d3a6-45a2-927f-242083a27cb6.png)
-![Jelly 2](https://user-images.githubusercontent.com/70842040/163918914-b368d407-a069-485f-ae0b-61de522f5668.png)
-![Jelly 3](https://user-images.githubusercontent.com/70842040/163918923-5560bd2d-a6b0-4a56-9b26-21748a796b6f.png)
-![Jelly 4](https://user-images.githubusercontent.com/70842040/163918932-17c35cb9-75a3-4faa-8e81-1d7f7e8ee2b1.png)
-![Jelly 5](https://user-images.githubusercontent.com/70842040/163918936-8291ed20-c3f9-4eb8-9f2e-a2ef7e95047b.png)
-![Jelly 6](https://user-images.githubusercontent.com/70842040/163918953-059cc670-26cb-47a8-a6ea-0d5391ab20af.png)
-![Jelly 7](https://user-images.githubusercontent.com/70842040/163918965-51d51787-0c0a-4532-88e6-2a74b5c464e9.png)
-![Jelly 8](https://user-images.githubusercontent.com/70842040/163918980-2ef18aa9-5999-4d6b-a350-5d6fbfab01c7.png)
-![Jelly 9](https://user-images.githubusercontent.com/70842040/163918987-7d4a3975-bdc2-4236-b6d7-a435811f8ff0.png)
-![Jelly 10](https://user-images.githubusercontent.com/70842040/163918994-ca9016ef-7ea7-4c21-90e1-a218a0cba79d.png)
-![Jelly 11](https://user-images.githubusercontent.com/70842040/163918996-2d579259-4081-4acc-aafb-7c974f02b42b.png)
+![image](https://user-images.githubusercontent.com/70842040/165079616-bfe9a0a5-14ab-4447-b81a-5bae2a5584d9.png)
+![image](https://user-images.githubusercontent.com/70842040/165079645-3bb4a40d-4c71-44fe-8366-7abf13d71619.png)
+![image](https://user-images.githubusercontent.com/70842040/165079679-5b10a140-10ab-46a3-a133-1e7cb6902ae9.png)
+![image](https://user-images.githubusercontent.com/70842040/165079703-b21b8944-f3e0-4aa1-82d5-d81f17621a8d.png)
+![image](https://user-images.githubusercontent.com/70842040/165079744-a677f247-b377-4be8-8870-c58df7f7c4df.png)
+![Jelly 5](https://user-images.githubusercontent.com/70842040/165079772-ee709580-bf12-4962-b9a0-ca5d16a84141.png)
+![Jelly 6](https://user-images.githubusercontent.com/70842040/165079798-1bc2479c-4d6a-4cfe-bfec-5bb808102f66.png)
+![Jelly 7](https://user-images.githubusercontent.com/70842040/165079820-35cb35e6-caef-41d8-a844-117bd3f85d94.png)
+![Jelly 8](https://user-images.githubusercontent.com/70842040/165079829-af782703-6dd1-45df-8260-3d57d0f9e1c8.png)
+![Jelly 9](https://user-images.githubusercontent.com/70842040/165079843-19b6743a-7437-4806-9705-90427b961a2e.png)
+![Jelly 10](https://user-images.githubusercontent.com/70842040/165079855-12ef6b5a-6652-402e-8f23-6361aaaec072.png)
+![Jelly 11](https://user-images.githubusercontent.com/70842040/165079871-bdefc106-6362-4bff-b69d-cc94e1356ad9.png)
+
 
 추후 추가예정
 
