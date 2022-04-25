@@ -60,7 +60,7 @@
 
 ![image](https://user-images.githubusercontent.com/70842040/165079552-aa457ad9-a77c-46a9-b9f9-648ce0fa8aff.png)
 
-![Jelly 0](https://user-images.githubusercontent.com/70842040/165079571-b4e5098b-1afe-4f44-88dc-ab802461d5c1.png)
+![Jelly 0](https://user-images.githubusercontent.com/70842040/165080212-73ee77ef-29eb-478a-bc13-71f9909d4167.png)
 
 키우는 환경은 식물을 키우는 환경과 비슷하게 만들었으며
 
