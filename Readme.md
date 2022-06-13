@@ -127,6 +127,7 @@
 
 ### 9.플레이영상
 
+https://github.com/j0462/j0462.github.io/blob/main/images/KakaoTalk_20220607_130829263.mp4
 
 ### 10.향후계획
 
