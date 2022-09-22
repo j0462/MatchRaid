@@ -28,15 +28,19 @@
 
 <br><br>
 
-# [관련 동영상]
+# [관련 이미지 & 동영상]
 
 
 - 동영상  
 
 
-  1) https://youtu.be/5o6VAGX0tcg
+  1) ![image](https://user-images.githubusercontent.com/70842040/191636596-23273401-e18c-49fd-a3cc-a780525bfcab.png)
+
+      https://youtu.be/5o6VAGX0tcg
   
-  2) https://youtu.be/sFbjnJoPRPs
+  2) ![image](https://user-images.githubusercontent.com/70842040/191636639-5c74a618-89cc-422f-a55a-cd3a9b308950.png)
+
+      https://youtu.be/sFbjnJoPRPs
 
 <br><br>
 
