@@ -42,7 +42,7 @@
 
 # [대표 이미지]
 
-이상헌.png
+![image](https://user-images.githubusercontent.com/70842040/191635332-1f2a38d0-6a5a-4987-9d04-28a445d5925b.png)
 
 <br><br>
 
