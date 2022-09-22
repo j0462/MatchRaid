@@ -31,16 +31,18 @@
 # [관련 이미지 & 동영상]
 
 
-- 동영상
-  https://youtu.be/5o6VAGX0tcg
+- 동영상  
+
+
+  1) https://youtu.be/5o6VAGX0tcg
   
-  https://youtu.be/sFbjnJoPRPs
+  2) https://youtu.be/sFbjnJoPRPs
 
 <br><br>
 
 # [대표 이미지]
 
-![그림](./img/그림.png)
+이상헌.png
 
 <br><br>
 
