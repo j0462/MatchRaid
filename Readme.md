@@ -1,4 +1,4 @@
-# 프로젝트명: Match&Raid
+# 프로젝트명: Match&Raid (개발자:2084029 이상헌)
 
 # [컨셉]
 
@@ -156,3 +156,19 @@ Unity를 기반으로 모바일 플랫폼으로 개발하며
 
 
 퍼즐을 맞출 시 보스레이드에 영향을 주는 식으로 개발할 것이다.
+
+
+
+# [게임시스템디자인]
+
+## a. 게임 오브젝트
+![image](https://user-images.githubusercontent.com/70842040/195474676-a475d86e-18a0-4551-984f-e237f61e8d54.png)
+![image](https://user-images.githubusercontent.com/70842040/195474711-3e1da415-ced4-4573-9273-5036b48f1942.png)
+![image](https://user-images.githubusercontent.com/70842040/195474739-da042903-db35-412f-998b-82954c15ca3f.png)
+![image](https://user-images.githubusercontent.com/70842040/195474760-db0b4ee8-3b8c-47d7-a373-862e888395fb.png)
+![image](https://user-images.githubusercontent.com/70842040/195474778-d7cc89d9-0036-43c5-a26f-da16afbe52cd.png)
+
+
+
+
+
