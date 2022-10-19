@@ -162,9 +162,10 @@ Unity를 기반으로 모바일 플랫폼으로 개발하며
 # [게임시스템디자인]
 
 ## a. 게임 오브젝트
+
 |번호|명칭|이미지|
-|-------|-----|-----|
-|1|메안메뉴|![image](https://user-images.githubusercontent.com/70842040/196700671-132c43e5-0c3f-460f-b8a7-d3e4eec93572.png)|
+|----|----|-----|
+|1|메인메뉴|![image](https://user-images.githubusercontent.com/70842040/196700671-132c43e5-0c3f-460f-b8a7-d3e4eec93572.png)|
 |2|스테이지 락, 언락|![image](https://user-images.githubusercontent.com/70842040/196700719-f007d476-14b4-4e43-bbdc-538bab2478ad.png)|
 |3|스테이지 시작|![image](https://user-images.githubusercontent.com/70842040/196700762-442a56b9-ccb7-456a-bbff-993cd0c153bc.png)|
 |4|흑마법사-헥센|![image](https://user-images.githubusercontent.com/70842040/196698679-d9680360-7920-41fc-b14e-2475102a66e9.png)|
