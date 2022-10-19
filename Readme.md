@@ -181,10 +181,10 @@ Unity를 기반으로 모바일 플랫폼으로 개발하며
 |15|클리어|![image](https://user-images.githubusercontent.com/70842040/196699326-c46250e8-eaec-418d-aa92-5129d939bc0b.png)|
 |16|나가기, 다시하기, 다음스테이지|![image](https://user-images.githubusercontent.com/70842040/196699401-2168a9c4-ad4c-46ab-861d-a94c240bfbac.png)|
 |17|실패|![image](https://user-images.githubusercontent.com/70842040/196699447-ac9acc16-9ccf-424d-b1a9-81ac37840eef.png)|
-|18|배경-숲속|![image](https://user-images.githubusercontent.com/70842040/196699547-f1a9a5ec-38be-404f-935b-2d0c1a63e547.png)|
-|19|배경-동굴|![image](https://user-images.githubusercontent.com/70842040/196699605-24439d1f-bd0b-4ff9-818a-2736d68e950c.png)|
-|20|재화-골드|![image](https://user-images.githubusercontent.com/70842040/196699664-6a0b57c0-3627-4df6-a1dd-f6cc35daccd4.png)|
-|21|퍼즐-토큰|![image](https://user-images.githubusercontent.com/70842040/196699502-103888aa-e247-48c2-9d6c-6ad246b6f8f5.png)|
+|18|배경-숲속|![image](https://user-images.githubusercontent.com/70842040/196699502-103888aa-e247-48c2-9d6c-6ad246b6f8f5.png)|
+|19|배경-동굴|![image](https://user-images.githubusercontent.com/70842040/196699547-f1a9a5ec-38be-404f-935b-2d0c1a63e547.png)|
+|20|재화-골드|![image](https://user-images.githubusercontent.com/70842040/196699605-24439d1f-bd0b-4ff9-818a-2736d68e950c.png)|
+|21|퍼즐-토큰|![image](https://user-images.githubusercontent.com/70842040/196699664-6a0b57c0-3627-4df6-a1dd-f6cc35daccd4.png)|
 |22|토큰1|![image](https://user-images.githubusercontent.com/70842040/196699708-528dcec1-67e3-456d-8f7e-647483e41b1f.png)|
 |23|토큰2|![image](https://user-images.githubusercontent.com/70842040/196699775-a4858064-45ca-4a41-a738-ce402bdd1328.png)|
 |24|토큰3|![image](https://user-images.githubusercontent.com/70842040/196699814-aaf0a86c-6313-44fb-8836-945a86e7927b.png)|
