@@ -456,7 +456,21 @@ HP가 존재한다. 제한시간내에 모든 HP를 깍아내면 승리다.
 
 ## 1주차
 
+타이틀, 스테이지, 게임화면 제작 - 외주
 
+각 Scene을 이동하기 위한 스크립트
+```
+using UnityEngine;  
+using UnityEngine.SceneManagement;  
+
+public class NewBehaviourScript : MonoBehaviour 
+{ 
+    public void SceneChange() 
+    { 
+        SceneManager.LoadScene(0); //각 Scene에 index 부여, LoadScene 메소드로 이동 
+    } 
+} 
+```
 
 
                                            
