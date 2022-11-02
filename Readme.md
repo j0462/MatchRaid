@@ -464,7 +464,7 @@ HP가 존재한다. 제한시간내에 모든 HP를 깍아내면 승리다.
 
 ## 1주차
 
-타이틀, 스테이지, 게임화면 제작 - 외주
+타이틀, 스테이지, 게임화면 제작 - 20%
 
 각 Scene을 이동하기 위한 스크립트
 ```
@@ -479,6 +479,17 @@ public class NewBehaviourScript : MonoBehaviour
     } 
 } 
 ```
+
+## 2주차
+
+영웅강화와 관령된 UI 및 옵션 창 제작
+
+옵션창에서 음량조절 기능 제작
+
+1 & 2주차 결과
+![image](https://user-images.githubusercontent.com/70842040/199521502-f3b25f94-7f53-4a79-907f-bda970db4269.png)
+
+
 
 
                                            
