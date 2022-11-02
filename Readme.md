@@ -488,7 +488,7 @@ public class NewBehaviourScript : MonoBehaviour
 
 1 & 2주차 결과
 
-![image](https://user-images.githubusercontent.com/70842040/199521502-f3b25f94-7f53-4a79-907f-bda970db4269.gif)
+<img width="80%" src="https://github.com/j0462/j0462.github.io/blob/main/images/20221102_233838_Trim.gif"/>
 
 
 
