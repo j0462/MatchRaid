@@ -487,6 +487,7 @@ public class NewBehaviourScript : MonoBehaviour
 옵션창에서 음량조절 기능 제작
 
 1 & 2주차 결과
+
 ![image](https://user-images.githubusercontent.com/70842040/199521502-f3b25f94-7f53-4a79-907f-bda970db4269.png)
 
 
