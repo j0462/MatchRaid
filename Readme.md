@@ -477,7 +477,9 @@ HP가 존재한다. 제한시간내에 모든 HP를 깍아내면 승리다.
 
 1 & 2주차 결과
 
-<img width="30%" src="https://github.com/j0462/j0462.github.io/blob/main/images/20221102_233838_Trim.gif"/>
+<video width="100%" height="100%" controls="controls">
+  <source src="./images/EaseUS-RecExperts/20221102_233838_Trim.mp4" type="video/mp4">
+</video>
 
 
 
