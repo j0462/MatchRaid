@@ -477,7 +477,7 @@ HP가 존재한다. 제한시간내에 모든 HP를 깍아내면 승리다.
 
 1 & 2주차 결과
 
-<video width="100%" height="100%" controls="controls">
+<video width="50%" height="50%" controls="controls">
   <source src="./images/week/20221102_233838_Trim.mp4" type="video/mp4">
 </video>
 
@@ -491,7 +491,7 @@ HP가 존재한다. 제한시간내에 모든 HP를 깍아내면 승리다.
 ~~영웅, 적 유닛 배치~~
 
 
-<video width="100%" height="100%" controls="controls">
+<video width="50%" height="50%" controls="controls">
   <source src="./images/week/20221109_222611.mp4" type="video/mp4">
 </video>
 
