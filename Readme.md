@@ -139,6 +139,10 @@
 
 <br><br>
 
+# [포스터&홍보영상]
+
+![image](https://github.com/j0462/j0462.github.io/assets/70842040/f38e4bc4-4563-40be-8778-1173f3313f4b){: width="30%" height="30%"}
+
 # [대표 이미지]
 
 ![image](https://user-images.githubusercontent.com/70842040/191635332-1f2a38d0-6a5a-4987-9d04-28a445d5925b.png)
