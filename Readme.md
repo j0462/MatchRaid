@@ -627,6 +627,12 @@ HP가 존재한다. 제한시간내에 모든 HP를 깍아내면 승리다.
 
 ## 8주차
 
+
+<video width="50%" height="50%" controls="controls">
+  <source src="./images/캡처/이상헌_플레이영상.mp4" type="video/mp4">
+</video>
+
+
 완성
 
 ~~모바일 빌드시 버그 수정~~
