@@ -141,7 +141,7 @@
 
 # [포스터&홍보영상]
 
-![image](https://github.com/j0462/j0462.github.io/assets/70842040/f38e4bc4-4563-40be-8778-1173f3313f4b){: width=30% height=30%}
+<img src="https://github.com/j0462/j0462.github.io/assets/70842040/f38e4bc4-4563-40be-8778-1173f3313f4b" width="30%" height="30%"/>
 
 <video width="50%" height="50%" controls="controls">
   <source src="./images/캡처/이상헌_홍보영상.mp4" type="video/mp4">
